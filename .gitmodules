@@ -1,6 +1,8 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/nijatkazimli/Mercatura-Frontend.git
+	branch = main
 [submodule "backend"]
 	path = backend
 	url = https://github.com/nijatkazimli/Mercatura-Backend.git
+	branch = main
