@@ -26,7 +26,7 @@ docker-compose up --build
 <br>**Note:**<br>
 `recurse-submodules` option is highly recommended as it will also clone the submodules.<br>
 `j2` option is recommended for high performance clone as it will clone 2 submodules in parallel.<br>
-Then navigate to [Home Page](http//:localhost:3000). The web page comes with a sample data for the demonstration purposes.
+Then navigate to [Home Page](http://localhost:3000). The web page comes with a sample data for the demonstration purposes.
 You can take a look at how API looks like using a user friendly way, [Swagger](http://localhost:8080/swagger-ui/index.html),
 or Postman collection in the backend directory.<br>
 <img alt="Swagger" src="demoImages/swagger.png" width="350" /><br>
