@@ -58,7 +58,25 @@ or Postman collection in the backend directory.<br>
   - Grafana (coming soon)
 
 ## Code structure
-For the code structure, please refer to the submodule repository READMEs.
+### Backend
+  - configuration &ndash; contains security configurations (filter chain, CORS).
+  - controller &ndash; contains the controller classes.
+  - dto &ndash; contains Data Transmission Objects (response, request body).
+  - entity &ndash; contains blueprints about how tables should look like in the database.
+  - repository &ndash; contains the context about the type of repositories.
+  - service &ndash; contains the interaction logics between controller and repositories.
+  - specification &ndash; contains filtering SQL builder for entities (for now only Product).
+  - utils &ndash; contains utility classes.
+### Frontend
+- src
+  - api &ndash; contains all the logic for the interaction between BE and FE.
+  - common &ndash; contains utility functions.
+  - components &ndash; contains General components or the Page components.
+  - constants &ndash; contains static image paths, sort options, and roles.
+  - hooks &ndash; contains AuthContext (used for interaction between Redux and Cookies) and WindowDimensions<br> to dynamically get window dimensions to use in components.
+  - media &ndash; contains static image files.
+  - redux &ndash; contains all the Redux, Saga logic, and tests and mocks for them.
+  - App.tsx &ndash; the entry point to the app.
 
 ## Demo
 ### Home Page
