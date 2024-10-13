@@ -66,7 +66,7 @@ The left bar contains different filtering and sorting options.
 On the right of the searchbar, there is a category dropdown for filtering.
 **Note:** filtering and sorting is done on the **backend** side for faster results.<br>
 <img alt="Home Page" src="demoImages/homePage.png" width="700" /><br>
-By default, the frontend fetches 15 products. If there are more products pagination controls appear at the bottom of the home page.
+By default, the frontend fetches 15 products. If there are more products pagination controls appear at the bottom of the home page.<br>
 ![Pagination Controls](demoImages/paginationControls.png)
 
 ### Login Page
@@ -80,12 +80,12 @@ username **admin** <br>
 password: **password**
 
 ### Dynamic Pages
-After the user logs in, based on his/her roles, he/she can see and navigate to the pages &ndash; Merchandising and Admin.
+After the user logs in, based on his/her roles, he/she can see and navigate to the pages &ndash; Merchandising and Admin.<br>
 <img alt="Layout New Pages" src="demoImages/layoutNewPages.png" width="700" />
 
 ### Product Details
 Here the user can see several details about the product.<br>
-On the right side, user always sees at most 5 products from the same category.
+On the right side, user always sees at most 5 products from the same category.<br>
 <img alt="Product Details" src="demoImages/productDetails.png" width="700" /><br>
 
 #### Reviews
@@ -101,7 +101,7 @@ Here the user can access profile, carts pages, and logout<br>
 <img alt="Profile context" src="demoImages/profilePhotoContext.png" width="400" /><br>
 
 ### Carts
-Here the user can create a new cart, see all the cart details, pay them, see items, or even delete.
+Here the user can create a new cart, see all the cart details, pay them, see items, or even delete.<br>
 <img alt="Carts page" src="demoImages/carts.png" width="700" /><br>
 
 #### Cart Items
@@ -116,7 +116,7 @@ Here the merchandiser can add products, categories, photos for the products, or 
 <img alt="Merchandising Page" src="demoImages/merchandisingPage.png" width="700" /><br>
 
 ### Admin Page
-Here the admin can see numerous statistics about users, carts, and products in a chart or table form.
+Here the admin can see numerous statistics about users, carts, and products in a chart or table form.<br>
 <img alt="Admin Page" src="demoImages/adminPage.png" width="700" /><br>
 
 ### Contact Page
