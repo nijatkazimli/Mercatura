@@ -125,6 +125,9 @@ Here the user can create a new cart, see all the cart details, pay them, see ite
 #### Cart Items
 <img alt="Cart items" src="demoImages/cartItems.png" width="700" /><br>
 
+#### Cart Deletion Prompt
+<img alt="Cart deletion" src="demoImages/cartDeletion.png" width="700" /><br>
+
 ### Profile Page
 Here the user can change his/her profile picture or password, logout, or even delete the account.
 <img alt="Profile Page" src="demoImages/profilePage.png" width="700" /><br>
